@@ -1,4 +1,4 @@
-# CryptoApp
+# CryptoApp (Crypto Funk)
 CryptoApp is a cryptocurrency app that provides the latest news, top lists of coins, watchlists and more about the world
 
 ## Features
@@ -11,6 +11,7 @@ CryptoApp is a cryptocurrency app that provides the latest news, top lists of co
 
 ## Note
 * This project contains chart which is not working as of now (endpoint became paid in latest version)
+* To view - [Click Here](https://cryptofunk-1.onrender.com/)
 
 ## Build using
 
