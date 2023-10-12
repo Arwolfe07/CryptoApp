@@ -17,6 +17,7 @@ CryptoApp is a cryptocurrency app that provides the latest news, top lists of co
 ### Front-end:
 1. [ReactJS](https://react.dev/) - A JavaScript library for building user interfaces
 2. [Redux](https://redux.js.org/) - Predictable state container for JS apps
+3. [Chart.js](https://www.chartjs.org/) - Chart.js is a free, open-source JavaScript library for data visualization
 
 ### Back-end:
 1. [Coinranking](https://rapidapi.com/Coinranking/api/coinranking1)
